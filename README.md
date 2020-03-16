@@ -65,7 +65,7 @@ In order to play this game (and see how it's running), you'll need:
 
 #### Running
 
-  Once you have everything installed, just double click the ```main_code_desktop.py``` file to open the game.
+  Once you have everything installed, just double click the ```Hunt The Wumpus.py``` file to open the game.
   You can also open the file with IDLE and run it with ```F5``` button.
   And of course, you can use the command prompt to open the game file.
   In this case, you may have to add your Python3 path to the environment variables in order to do it.
@@ -77,7 +77,7 @@ In order to play this game (and see how it's running), you'll need:
   
   In order to run this game in Android, download the latest released package.
   Then, download [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3).
-  Open the ```Hunt the Wumpus.py``` and click run. You're done.
+  Open the ```Hunt The Wumpus.py``` and click run. You're done.
 
   Notes: this version can be unstable and buggy, because of PyGame's implementation in PyDroid. Isn't the real PyGame there.
   You can try another application to run this game (such QPython3), by installing ```pygame-sdl2``` package via ```pip3```. Not guaranteed.
