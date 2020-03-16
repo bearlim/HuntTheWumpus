@@ -42,9 +42,8 @@ In order to play this game (and see how it's running), you'll need:
   Once you are in the game folder, type:
 
   ```
-  python3 main_game_desktop.py
+  python3 Hunt\ The\ Wumpus.py
   ```
-  > Note: There are two versions avaliable: desktop and mobile
 
   To close the game, just close the actual window of the game, or the terminal.
   To force the stop, press ```Ctrl + C```.
