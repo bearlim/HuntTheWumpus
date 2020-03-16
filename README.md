@@ -77,7 +77,7 @@ In order to play this game (and see how it's running), you'll need:
   
   In order to run this game in Android, download the latest released package.
   Then, download [PyDroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3).
-  Open ```main_code_mobile.py``` and click run. You're done.
+  Open the ```Hunt the Wumpus.py``` and click run. You're done.
 
   Notes: this version can be unstable and buggy, because of PyGame's implementation in PyDroid. Isn't the real PyGame there.
   You can try another application to run this game (such QPython3), by installing ```pygame-sdl2``` package via ```pip3```. Not guaranteed.
